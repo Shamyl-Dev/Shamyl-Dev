@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm a dev trying to build and work on stuff that matters to me.<br><br>- 🔭 I’m working as a contracted developer<br>- 📚 I'm currently learning so bear with me<br>- ⚡ In my free time, I play Valorant (unwillingly)</p>
+<p align="left">I'm a dev trying to build and work on stuff that matters to me.<br><br>- 🔭 I’m working as a contracted developer<br>- 📚 No one's "cracked", they just love learning<br>- ⚡ In my free time, I play Valorant (unwillingly)</p>
 
 ###
 
